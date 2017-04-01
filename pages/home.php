@@ -1,3 +1,7 @@
 <?php
-	echo "Home";
+
+print "Hallo world";
+
+
+
 ?>
